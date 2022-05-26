@@ -1,0 +1,1630 @@
+{
+  "custom_audiences_all_types_v2": [
+    {
+      "advertiser_name": "ADARA",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Tralleviate - Your Incentive to Travel",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Boston Dynamics",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Expedia",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Unity for Games",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Aspire",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Jack Kosakowski",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "WalkMe",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Brilliant.org",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Sendbird",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Booking.com",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Kiwi.com",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "PAYBACK - Tu si\u00c4\u0099 nagradza",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "ALL - Accor Live Limitless",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "GRUPA BUKKO",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Microsoft Customer Insights Center",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Exponea",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "TV Time",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "MIT Sloan Executive Education",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Highspot",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Vizz",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Intuit QuickBooks",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Cohley",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "JetPex",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Figma",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "MGCom",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Time for Wax - Business",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "SalesTube",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "MARVELOUS",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Cendyn",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Niantic",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Black Red White",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Thnks",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Dropbox",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "FreshMail PL",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Cordial",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Calendly",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "HTTPool Latvia Authorized Sales Partner",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "VOX Global",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "AllTrails",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Internet Chess Club (ICC)",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "NOVA-Commerce",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Deel",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Attentive",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "GoldenLine.pl",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Booksy",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Tigera",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Smartlook",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Byte",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Brandfolder",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Crossover",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Hilton Newsroom",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Responsis Pty Ltd",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Terrapinn",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Hopin",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Splash",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Splash That",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Gold Rush Media",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Forter",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "GetSmarter",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Merlin Group S.A.",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "HotelTonight",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "FKQ Advertising + Marketing",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Immuta",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "2021 oferty nocleg\u00c3\u00b3w",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "360i",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Digital Agency",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Starcom USA",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Acquire App",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Nexmo",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "tribedynamics",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Go Google",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Dice with Buddies",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "StatSocial",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Notion",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Spryker",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "MODCo T2",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Sam Ovens",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Olympic Air Maintenance training Organization",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "StickyBeak",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Angielski z Kate Highton",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Soliber Net Ltd",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Radar",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Siepomaga.pl",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Aerol\u00c3\u00adneas Argentinas",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "LaunchDarkly",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Adsmurai Spain",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Turing",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Strava",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "IProspect France",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Bristol Who's Who",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Sprinklr",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Marriott International",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Retool",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Tripadvisor",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Semcasting, Inc.",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "AdParlor",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Disney Streaming Services",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Life At BigID",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Take-Two Interactive.",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "15Five",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Kandji",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Quora",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "StackSocial",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Katalon-Satellite Pages",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "MT\u00c3\u009c Sportlik Eesti",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Fine Dining Week",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Feno",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "MAVRCK",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "DataCamp",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Grammarly",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "DataStax",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "SSIC",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Office",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "EkoChatka Zdrowa \u00c5\u00bbywno\u00c5\u009b\u00c4\u0087",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "EduAkcja",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "sfmeble.pl",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Amazon.de",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Woblink",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Vimeo",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Wayflyer",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Gaana",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Take-Two Interactive",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Clearco",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "SnowShow",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Meta for Developers",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "FastTony.es",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "ASICS",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Be Broker",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Solace",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Rock 'n' Roll Running Series",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Adam Grzesik - Pomagam Budowa\u00c4\u0087 Zyskowne Firmy",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Splunk",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Dean Graziosi",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Fundacja Bia\u00c5\u0082ystok Biega",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Curiosity Stream",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "LinkedIn",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "KLM Royal Dutch Airlines",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Airbnb",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Primarch\u00c3\u00a9 Canada",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Maraton Warszawski",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "metadata.io",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Drive with Lyft",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "GCommerce",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Emirates",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Rewind",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Udemy",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "\u00c5\u009awie\u00c5\u00bco Palona",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "FOUR PAWS",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Shop Dent",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "BlaBlaCar",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Virtualo",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Zapier",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Meta for Business",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Rossmann Polska",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "K2 Precise",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "World Athletics Half Marathon Championships - Gdynia 2020",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Couchsurfing",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "PWN Nauka",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "VaynerMedia",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Piotr \u00c5\u009al\u00c4\u0099zak",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Vivino",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "PyImageSearch",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Sklepy G\u00c3\u00b3rskie Skalnik",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Typeform",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Smartsheet",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "GrowRev",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Dummy page",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Nutanix",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Infoinwestor.pl",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "CloudBolt",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Uber",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Heymarket",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Take-Two Interactive Europe",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Cluify",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Game of War - Fire Age",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Motorola",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Foundation Marketing",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Afterpay",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Neo4j",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Life at Salsify",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "BBG Enterprises LLC",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "MainStreet Work",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Vietjet",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "VertoDigital",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Afterpay USA",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "audioteka.pl",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Zenith International Media Ltd",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "IRONMAN",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Revolut",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Gazeta Wyborcza",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Gtmhub Ltd.",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Spring Creek Group",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Redis",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Air France",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "x-kom.pl",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Jak Oszcz\u00c4\u0099dza\u00c4\u0087 Pieni\u00c4\u0085dze",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Adobe",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Proof",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Route",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "foodpanda / hellofood",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Fast",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Algolia",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "H&M",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Ramp",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "LiveRamp",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Fire Strike",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Chess - Play & Learn",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Linux Foundation Events",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Evernote",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "They.pl",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "getabstract.com",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Vessel",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "The New York Times",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Performance Marketing - USD - Spotify AB",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "AlgoSec",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "ISFP",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Smartly Designed",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Wizz Air",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "AmpiFire",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Atlassian",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Michal Kwiatkowski szkola tanca ShimSham.pl",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Aidata.me",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Amazon.com",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Sift",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Rainbow",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Test Page",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Olympic Air",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Seedrs",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Naspers Classifieds",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "brainshark",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "FRU.PL - Bilety Lotnicze",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Mediabrands Digital",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Publicis SM Russia",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Prezi",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Clearbit",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Bynder",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Medicover Polska",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Twitter Inc",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "UM MENA",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Take-Two Interactive Europe.",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Ivanti",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Frame.io",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Vidyard",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Wunderflats",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Sojern",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Omaze",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Le Labo Fragrances",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "RevenueCat",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Qatar Airways",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "H&M - Paid Social",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "CloseContact",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Lumosity",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Szopex",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Appian",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "3dcart",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Afterpay UK Business Manager",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Hexaware",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Samsung",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Directive",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Twilio Segment",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Omni Hotels & Resorts",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "FREE NOW",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "TWIN",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "ServiceChannel",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "DocuSign",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Afterpay Canada Business Manager",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Proxi.cloud",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "PayPal",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Celonis",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Netflix",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    }
+  ]
+}

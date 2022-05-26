@@ -1,0 +1,20 @@
+{
+  "admined_apps_v2": [
+    {
+      "name": "foo_web_test",
+      "added_timestamp": 0
+    },
+    {
+      "name": "Test",
+      "added_timestamp": 0
+    },
+    {
+      "name": "Sample app for Tizen",
+      "added_timestamp": 0
+    },
+    {
+      "name": "SNote",
+      "added_timestamp": 0
+    }
+  ]
+}
